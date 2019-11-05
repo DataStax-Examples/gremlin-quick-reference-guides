@@ -1,5 +1,5 @@
 # Quick Reference Guide Gremlin Step Availability 
-## DSE Graph 6.0 and 6.1
+## DSE Graph 6.0 and 6.7
 
 The table below lists the availability of Gremlin Steps across the three different options for running Gremlin traversals.  To read about the differences between the three traversal engines please refer to the DataStax Documentation found [here](https://docs.datastax.com/en/dse/6.0/dse-dev/datastax_enterprise/graph/graphOLTPvsOLAP.html?hl=star%2Cgraph#OLAPqueries).
 

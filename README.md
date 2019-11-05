@@ -9,5 +9,5 @@ Contributors: [Dave Bechberger](https://github.com/bechbd), DataStax Graph and E
 
 ## Project Layout
 
-* [DSE 6.0 and 6.1](60_61_availability.md) - The quick reference guide for DSE versions 6.0 and 6.1
+* [DSE 6.0 and 6.7](60_67_availability.md) - The quick reference guide for DSE versions 6.0 and 6.7
  
