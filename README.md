@@ -1,5 +1,5 @@
 # DataStax Graph Gremlin Step Quick Reference Guides
-This repository contains the appropriate quick reference quides, which show which Gremlin steps are available for use in Gremlin OLAP, Gremlin OLTP, and DseGraphFrames for different DSE versions.
+This repository contains quick reference quides that show which Gremlin steps are available for use in [Gremlin OLAP](https://docs.datastax.com/en/dse/6.7/dse-dev/datastax_enterprise/graph/graphOLTPvsOLAP.html#graphOLTPvsOLAP__olap), [Gremlin OLTP](https://docs.datastax.com/en/dse/6.7/dse-dev/datastax_enterprise/graph/graphOLTPvsOLAP.html#graphOLTPvsOLAP__oltp), and [DataStax Enterprise Graph Frames](https://docs.datastax.com/en/dse/6.7/dse-dev/datastax_enterprise/graph/graphAnalytics/dseGraphFrameOverview.html) for different DSE versions.
 
 Contributors: [Dave Bechberger](https://github.com/bechbd), DataStax Graph and Engineering teams
 
